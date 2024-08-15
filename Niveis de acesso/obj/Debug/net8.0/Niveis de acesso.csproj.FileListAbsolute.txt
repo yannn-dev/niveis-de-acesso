@@ -1,0 +1,14 @@
+C:\Users\prefe\OneDrive\Documentos\Projetos\C#\Niveis de acesso\Niveis de acesso\bin\Debug\net8.0\Niveis de acesso.exe
+C:\Users\prefe\OneDrive\Documentos\Projetos\C#\Niveis de acesso\Niveis de acesso\bin\Debug\net8.0\Niveis de acesso.deps.json
+C:\Users\prefe\OneDrive\Documentos\Projetos\C#\Niveis de acesso\Niveis de acesso\bin\Debug\net8.0\Niveis de acesso.runtimeconfig.json
+C:\Users\prefe\OneDrive\Documentos\Projetos\C#\Niveis de acesso\Niveis de acesso\bin\Debug\net8.0\Niveis de acesso.dll
+C:\Users\prefe\OneDrive\Documentos\Projetos\C#\Niveis de acesso\Niveis de acesso\bin\Debug\net8.0\Niveis de acesso.pdb
+C:\Users\prefe\OneDrive\Documentos\Projetos\C#\Niveis de acesso\Niveis de acesso\obj\Debug\net8.0\Niveis de acesso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prefe\OneDrive\Documentos\Projetos\C#\Niveis de acesso\Niveis de acesso\obj\Debug\net8.0\Niveis de acesso.AssemblyInfoInputs.cache
+C:\Users\prefe\OneDrive\Documentos\Projetos\C#\Niveis de acesso\Niveis de acesso\obj\Debug\net8.0\Niveis de acesso.AssemblyInfo.cs
+C:\Users\prefe\OneDrive\Documentos\Projetos\C#\Niveis de acesso\Niveis de acesso\obj\Debug\net8.0\Niveis de acesso.csproj.CoreCompileInputs.cache
+C:\Users\prefe\OneDrive\Documentos\Projetos\C#\Niveis de acesso\Niveis de acesso\obj\Debug\net8.0\Niveis de acesso.dll
+C:\Users\prefe\OneDrive\Documentos\Projetos\C#\Niveis de acesso\Niveis de acesso\obj\Debug\net8.0\refint\Niveis de acesso.dll
+C:\Users\prefe\OneDrive\Documentos\Projetos\C#\Niveis de acesso\Niveis de acesso\obj\Debug\net8.0\Niveis de acesso.pdb
+C:\Users\prefe\OneDrive\Documentos\Projetos\C#\Niveis de acesso\Niveis de acesso\obj\Debug\net8.0\Niveis de acesso.genruntimeconfig.cache
+C:\Users\prefe\OneDrive\Documentos\Projetos\C#\Niveis de acesso\Niveis de acesso\obj\Debug\net8.0\ref\Niveis de acesso.dll
